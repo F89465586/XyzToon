@@ -1,6 +1,6 @@
 # XyzToon
 
-![](Image/Icon.png)
+![](https://github.com/F89465586/XyzToon/blob/main/Image/XyzToonENABLED.png)
 
 ## Function Introduction
 
@@ -8,11 +8,11 @@
 
 #### When the plugin is enabled, the "XyzToon Settings" category can usually be seen on the panel called out with the n key in the VIEW-3D layout, and the words "XyzToon enabled" can be seen on the panel of that category:
 
-![](Image/XyzToonENABLED.png)
+![](https://github.com/F89465586/XyzToon/blob/main/Image/NodeTree.png)
 
 #### When the plugin is enabled, you should be able to see node groups containing the words "XyzToon" in the "Group" category of the new node menu called up in the node editor interface:
 
-![](Image/NodeTree.png)
+![](https://github.com/F89465586/XyzToon/blob/main/Image/XyzToonENABLED.png)
 
 ## Known issues
 
