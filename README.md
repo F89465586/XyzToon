@@ -24,7 +24,7 @@
 
 # @README_CN:
 
-# XyzToon
+# XyzToon（blender3.5.1向上兼容 PS:4.0及以上版本未测试）
 
 ![](Image/Icon.png)
 
